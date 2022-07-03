@@ -1,10 +1,10 @@
-import InputFocus from "./components/InputFocus";
+import Timer from "./components/Timer";
 import "./styles.css";
 
 function App() {
   return (
     <div className="App">
-      <InputFocus />
+      <Timer />
     </div>
   );
 }
