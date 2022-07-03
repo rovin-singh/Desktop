@@ -1,10 +1,10 @@
-import Timer from "./components/Timer";
+import ScrollContainer from "./components/ScrollContainer";
 import "./styles.css";
 
 function App() {
   return (
     <div className="App">
-      <Timer />
+      <ScrollContainer />
     </div>
   );
 }
