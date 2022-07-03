@@ -1,12 +1,10 @@
-import ScrollContainer from "./components/ScrollContainer";
 import "./styles.css";
-
-function App() {
+import Form from "./components/Form";
+export default function App() {
   return (
     <div className="App">
-      <ScrollContainer />
+      <h1> React form </h1>
+      <Form />
     </div>
   );
 }
-
-export default App;
