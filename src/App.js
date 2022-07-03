@@ -1,10 +1,10 @@
-import Forms from "./components/Forms";
+import InputFocus from "./components/InputFocus";
 import "./styles.css";
 
 function App() {
   return (
     <div className="App">
-      <Forms />
+      <InputFocus />
     </div>
   );
 }
